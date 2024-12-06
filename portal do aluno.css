@@ -1,0 +1,30 @@
+body{
+    background-image: url(pexels-eva-bronzini-7629313.jpg);
+    background-size: cover;
+}
+h1{
+    color: rgb(60, 12, 204);
+}
+
+.inicio{
+    background-color: rgba(255, 115, 0, 0.74);
+    padding: 5px; 
+}
+
+form{
+    border: 2px;
+    border-radius: 20px;
+    border-color: rgb(167, 36, 36);
+    background-color: rgba(241, 241, 241, 0.356);
+    display: inline-block;
+    padding: 20px;  
+}
+
+input{
+    color: rgb(15, 47, 230);
+    background-color: rgba(240, 234, 231, 0.651);
+}
+
+p{
+    color: rgb(255, 255, 255);
+}

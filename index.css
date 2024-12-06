@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    background-image: url(pexels-eva-bronzini-7629313.jpg);
+    background-size: cover;
+    
+
+}
+
+header {
+    background-color: rgba(136, 98, 196, 0.993);
+    padding: 15px;
+    color: #0afafa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    
+}
+
+.area {
+    border: 1px solid rgb(235, 0, 0);
+    height: 100%;
+    width: 200px;
+    position: absolute;
+    background-color: #4915703f;
+   
+}
+.menu{
+ 
+    display: flex ;
+    flex-direction: column;
+    gap: 60px;
+    padding: 2px;
+
+}
+ul li { 
+  margin-bottom: 12px;
+  background-color: #c7d3d6fa;
+  text-align: center;
+  
+
+}
+
+a{
+    color: rgb(247, 72, 72);
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+}
+h3{
+    font-size: 28px;
+    color: rgba(0, 192, 206, 0.932);
+    
+}
+
+nav{
+    margin-top: 0px;
+}
+li{
+    margin: 5px;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+div{
+    color: rgb(217, 228, 228);
+}
+.img-perfil{
+    width: 100px;
+    border-radius: 15px;
+}
+.box-perfil{
+    margin-left: 500px;
+}
+footer{
+    bottom: 0;
+    position: fixed;
+    color: rgb(231, 218, 202);
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    align-items: center;
+    padding: 10px;
+    justify-items: center;
+}
+.rodape{
+    margin-left: 250px;
+}
+.inicio{
+    margin-left: 285px;
+    margin-top: -200px;
+    align-items: center;
+    position: fixed;
+}
+.começo{
+    background-color: #00ffff;
+    color: rgb(120, 108, 231);
+}
